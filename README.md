@@ -9,10 +9,11 @@ Here I briefly described all the features that were implemented in the project. 
 #### 1. Phong reflection model
 
 Computes the impact:
-	1) Light rays
-		- Diffusive and specular component
-	2) "Eye tracing"
-		- Recursively computes reflection and refraction
+
+1) Light rays
+	- Diffusive and specular component
+2) "Eye tracing"
+	- Recursively computes reflection and refraction
    
 #### 2. Acceleration structures
 
