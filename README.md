@@ -43,7 +43,7 @@ Computes the impact:
     
   - Makes a log of results to compare performance
   - Computes the duration, amount of ray casting, intersection, etc.
-#### 14. **CMake**
+#### 9. **CMake**
     
   - Has `Debug` and `Release` versions
   - Both support non `BVH` and `BVH` modes
